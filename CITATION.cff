@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Children outside school vaccination reporting: county-level estimates for the United States"
+authors:
+  - family-names: Bento
+    given-names: Ana I.
+    orcid: "https://orcid.org/0000-0001-7728-007X"
+    affiliation: "Cornell University"
+repository-code: "https://github.com/BentoLab-Cornell/measles-records-gap"
+license: MIT
+date-released: 2026-10-21
